@@ -1,8 +1,8 @@
-import streamlit as st
 from modules.fetch_data import fetch_et_data, fetch_weather_data
 from modules.process_data import process_et_data
 from modules.visualize_data import visualize_et, plot_weather_forecast
 from modules.suggestions import provide_suggestions
+import streamlit as st
 
 def main():
     st.title("NASA Water & Weather Data Tool for Farmers")
