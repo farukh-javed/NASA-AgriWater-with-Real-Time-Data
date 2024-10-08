@@ -16,7 +16,7 @@
 1. **Clone Repository**:
    ```bash
    git clone https://github.com/farukh-javed/NASA-AgriWater-Visualizer-with-Real-Time-Data.git
-   cd NASA-AgriWater-Visualizer-with-Real-Time-Data
+   cd NASA-AgriWater-with-Real-Time-Data
    ```
 2. **Install Requirements**:
    ```bash
